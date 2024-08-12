@@ -1,0 +1,6 @@
+print("hello world")
+first =input("name: ")
+print(first)
+second = input("surname: ")
+print(second)
+print("{} {}".format(first,second))

@@ -1,0 +1,11 @@
+text = input("what are you doing? ")
+leen= len(text)
+print('           {}'.format("_" * leen))
+print("         < {}>".format(text))
+print("           {}".format("-"*leen))
+print('          /')
+print(' /\_/\   /')
+print('( o.o ) /')
+print(' > ^ <')
+print("")
+1+2
